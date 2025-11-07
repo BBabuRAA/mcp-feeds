@@ -1,1 +1,7 @@
-
+{
+  "latest": "1.0.0",
+  "notes": "Initial release",
+  "download": "https://TENANT.sharepoint.com/sites/SITE/Shared%20Documents/MCPBundles/datascience-jokes/stable/datascience-jokes-1.0.0.mcpb?download=1",
+  "checksum_sha256": "",
+  "published": "2025-11-07T10:30:00Z"
+}
